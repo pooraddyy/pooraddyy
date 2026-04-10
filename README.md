@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://t.me/pythontodayz">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="40"/>
+    <img src="https://img.shields.io/badge/Join%20Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
