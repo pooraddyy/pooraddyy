@@ -12,8 +12,6 @@
 
 
 
-⸻
-
 
 <p align="center">
   walking forward... even when the path isn’t clear 🌙
@@ -24,10 +22,6 @@
   not stopping, not turning back —  
   because some dreams are worth everything
 </p>
-
-
-
-⸻
 
 
 <p align="center">
