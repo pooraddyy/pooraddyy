@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1200&color=1DA1F2&center=true&vCenter=true&width=750&lines=Love+is+the+most+twisted+curse+of+all." />
-</p>
-
-<p align="center">
-  <sub><i>Love is the most twisted curse of all.</i></sub>
+  <b><i>Love is the most twisted curse of all.</i></b>
 </p>
 
 <p align="center">
