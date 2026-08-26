@@ -1,19 +1,21 @@
 <p align="center">
-  <img src="C9A778A4-0AF4-4540-A0D6-7355406DB237.gif" width="220"/>
+  <img src="C9A778A4-0AF4-4540-A0D6-7355406DB237.gif" width="230"/>
 </p>
 <p align="center">
-  <samp><b>building things that should exist.</b></samp>
+  <samp><b>「 turning thoughts into code 」</b></samp>
 </p>
 <p align="center">
-  <sub>think · build · break · repeat</sub>
+  <sub>create · experiment · evolve</sub>
 </p>
 <br>
 <p align="center">
   <samp>
-    <code>01</code> &nbsp; // turning ideas into reality
+    <code>$ ./build --quiet</code>
   </samp>
 </p>
-<br>
 <p align="center">
-  <samp>⌁ always building something.</samp>
+  <samp>────────────────────────</samp>
+</p>
+<p align="center">
+  <samp><i>still building.</i></samp>
 </p>
