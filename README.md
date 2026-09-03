@@ -17,5 +17,3 @@
   <samp>────────────────────────</samp>
 </p>
 <p align="center">
-  <samp><i>still building.</i></samp>
-</p>
